@@ -30,7 +30,8 @@ void read_file(char *filename, char **argv)
 	exit(0);
 }
 /**
- * treat_file - PARSE This function Checks Command Fork Wait Excute in Line of File
+ * treat_file - PARSE This function
+ * Checks Command Fork Wait Excute in Line of File
  * @line: Line From A File
  * @counter:Error Counter
  * @fp:File Descriptor

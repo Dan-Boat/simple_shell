@@ -62,7 +62,8 @@ char *_strchr(char *s, char c)
 return (s);
 }
 /**
- * _strncmp - This function Compares the Amount (n) Of Characters Of Two Strings.
+ * _strncmp - This function Compares the Amount (n)
+ *  Of Characters Of Two Strings.
  * @s1: A String.
  * @s2: A String.
  * @n: Amount Of Characters To Compare.

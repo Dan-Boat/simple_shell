@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- **_realloc -  This function Reallocates A Memory Block Using Malloc And Free
+ **_realloc -  This function Reallocates A
+ * Memory Block Using Malloc And Free
  *@ptr: Pointer
  *@old_size: Previous Size Of The Pointer
  *@new_size: New Size Of The Pointer
@@ -35,7 +36,8 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 
 }
 /**
- * free_all - This function creates a Free Array Of Char Pointer And Char Pointer
+ * free_all - This function creates a
+ * Free Array Of Char Pointer And Char Pointer
  * @cmd:Array Pointer
  * @line:Char Pointer
  * Return: Void
